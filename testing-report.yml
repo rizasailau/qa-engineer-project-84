@@ -9,12 +9,16 @@
 
 - summary: |
     Добавление товара в корзину
-   status: pass
+  status: pass
 
 - summary: |
     Проверка адаптивности сайта на мобильных устройствах
-   status: pass
+  status: pass
 
 - summary: |
     Сохранение данных корзины после обновления страницы
-   status: pass
+  status: pass
+
+- summary: |
+    Проверка переключения языка интерфейса сайта
+  status: fail
