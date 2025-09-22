@@ -6,7 +6,7 @@ files:
   - file: "about.yml"
     description: "Описание проекта и его цели"
   - file: "requirements.yml"
-    description: "Список требований"
+    description: "Список требований
   - file: "test-cases.yml"
     description: "Тест-кейсы"
   - file: "testing-report.yml"
